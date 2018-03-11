@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 import sys
 import re
+from create_offer import make_file
 
 
 def process_data(filename):
@@ -73,4 +74,5 @@ def dict_print(dict, size='', quantity='', optional_colon=''):
 
 if __name__ == "__main__":
     data = process_data(sys.argv[1])
-    print_results(data)
+    # print_results(data)
+    make_file(data, "Oferta.txt")
