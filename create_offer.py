@@ -6,6 +6,7 @@ base_texts = ["ID towaru:", "Nazwa towaru:", "Kategoria:", "Długi opis:",
 
 
 def make_file(complete_data, filename):
+    """Depending on file, if it exists or not, create or append it."""
     if os.path.isfile(filename):
         with codecs.open(filename, 'a', 'utf-8') as f:
             save_data(complete_data, f)
@@ -14,11 +15,11 @@ def make_file(complete_data, filename):
             save_data(complete_data, f)
 
 
-def save_data(list_data, file):
-    proper_list = convert_to_list(list_data)
+def save_data(zipped_lists, file):
+    """Save values from list to txt file with special formatting."""
+    final_list = convert_to_list(zipped_lists)
 
-    for elem in proper_list:
-        file.write('\n')
+    for elem in final_list:
         if isinstance(elem, tuple):
             if isinstance(elem[1], tuple):
                 file.write("%s %s %s\n" % (elem[0], elem[1][0], elem[1][1]))
@@ -31,17 +32,18 @@ def save_data(list_data, file):
             elif isinstance(elem[1], dict):
                 file.write("%s\n" % (elem[0]))
                 for k, v in elem[1].items():
-                    file.write("%s %s\n" % (k, v))
+                    file.write("%s\n" % (k + ": " + v))
                 continue
             file.write("%s %s\n" % (elem[0], elem[1]))
     file.write('\n')
 
 
-def convert_to_list(data):
+def convert_to_list(list_with_data):
+    """Zip neccessary data with base_texts lists."""
     temp_list = [shoes_id,
                  name, cat,
                  desc, price,
                  images, sizes,
-                 params] = data
-    new_list = zip(base_texts, temp_list)
-    return list(new_list)
+                 params] = list_with_data
+    zipped_lists = zip(base_texts, temp_list)
+    return list(zipped_lists)

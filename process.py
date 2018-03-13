@@ -5,6 +5,8 @@ from create_offer import make_file
 
 
 def process_data(filename):
+    """Parse XML file, iterate through it to get and retrieve data.
+    Return all interesting values as a tuple."""
     tree = ET.parse(filename)
     root = tree.getroot()
     nsmap = '{http://www.iai-shop.com/developers/iof/extensions.phtml}'
@@ -46,12 +48,14 @@ def process_data(filename):
 
 
 def clean_description(s):
+    """Remove everything inside <[tag]> with tag itself."""
     clean_re = re.compile('<.*?>')
     clean_s = re.sub(clean_re, '', s).lstrip()
     return clean_s
 
 
 def print_results(data):
+    """Printing all results in human read style."""
     shoes_id, name, cat, long_desc, price, images, sizes, params = data
 
     print("ID towaru:", shoes_id, '\n')
@@ -61,18 +65,20 @@ def print_results(data):
     print("Cena brutto:", price[0], price[1], "\n")
     [print(images.index(img) + 1, img) for img in images]
     dict_print(sizes, "Rozmiar:", "Ilość:")
-    dict_print(params, optional_colon=':')
+    dict_print(params)
 
 
-def dict_print(dict, size='', quantity='', optional_colon=''):
+def dict_print(dict, size='', quantity=''):
+    """Print dictionary result in key, value style with optional
+    size and quanitity args."""
     for key, value in dict.items():
         if size == '' and quantity == '':
-            print(key, optional_colon, value)
+            print(key + ": " + value)
         else:
-            print(size, key, optional_colon, quantity, value)
+            print(size, key + ": " + quantity, value)
 
 
 if __name__ == "__main__":
     data = process_data(sys.argv[1])
     # print_results(data)
-    make_file(data, "Oferta.txt")
+    make_file(data, sys.argv[2])

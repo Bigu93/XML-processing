@@ -1,34 +1,25 @@
-
 ID towaru: 5388
-
 Nazwa towaru: Sergio Leone Perłowe Czółenka Szpilki Feliciana Różowe
-
 Kategoria: Damskie/Szpilki
-
 Długi opis: Szukasz eleganckich kobiecych szpilek? Warto zwrócić uwagę na model Feliciana od firmy Sergio Leone. Wyróżniają się delikatną szpilką, pięknie podkreślającą nogi, oraz noskiem w szpic, który wysmukla stopę. Występują w wielu modnych kolorach, więc możesz je dopasować do wielu okazji i stylizacji. To ponadczasowy design, który w subtelny sposób podkreśla kobiece piękno! Nie czekaj dłużej i kup teraz w doskonałej cenie!
-
 Cena: 89.00 PLN
-
 Zdjecia:
 https://butosklep.pl/data/gfx/pictures/large/8/8/5388_3.jpg,
 https://butosklep.pl/data/gfx/pictures/large/8/8/5388_1.jpg,
 https://butosklep.pl/data/gfx/pictures/large/8/8/5388_2.jpg,
 https://butosklep.pl/data/gfx/pictures/large/8/8/5388_4.jpg,
-
 Rozmiary:
-36 1
-37 2
-38 2
-39 2
-40 1
-
+36: 1
+37: 2
+38: 2
+39: 2
+40: 1
 Parametry:
-Kolor Odcienie różu
-Typ Wsuwane
-Materiał zewnętrzny Tworzywo skóropodobne
-Wkładka Skóra naturalna
-Ocieplenie Brak
-Rodzaj obcasa Szpilka
-Wysokość obcasa 10 cm
-Wysokość cholewki 5,5 cm
-
+Kolor: Odcienie różu
+Typ: Wsuwane
+Materiał zewnętrzny: Tworzywo skóropodobne
+Wkładka: Skóra naturalna
+Ocieplenie: Brak
+Rodzaj obcasa: Szpilka
+Wysokość obcasa: 10 cm
+Wysokość cholewki: 5,5 cm
