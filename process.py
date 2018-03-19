@@ -3,36 +3,44 @@ import sys
 import re
 from create_offer import make_file
 
+nsmap = '{http://www.iai-shop.com/developers/iof/extensions.phtml}'
 
-def process_data(filename):
+
+def processProducts():
+    tree = ET.parse(sys.argv[1])
+    root = tree.getroot()
+
+    for child in root.iter('product'):
+        data = process_data(child)
+        print_results(data)
+        make_file(data, sys.argv[2])
+
+
+def process_data(product):
     """Parse XML file, iterate through it to get and retrieve data.
     Return all interesting values as a tuple."""
-    tree = ET.parse(filename)
-    root = tree.getroot()
-    nsmap = '{http://www.iai-shop.com/developers/iof/extensions.phtml}'
-
-    for product in root.iter('product'):
-        shoes_id = product.get('id')
-        name_of_shoes = product.find('description')[2].text
-        category = product.find('category').get('name')
-        temp_desc = product.find('description')[6].text
+    for value in product.iter('product'):
+        shoes_id = value.get('id')
+        name_of_shoes = value.find('description')[2].text
+        category = value.find('category').get('name')
+        temp_desc = value.find('description')[6].text
         long_desc = clean_description(temp_desc)
-        price = (product.find('price').get('gross'), product.get('currency'))
+        price = (value.find('price').get('gross'), value.get('currency'))
 
         parameters = dict()
-        for param in root.iter('parameter'):
+        for param in value.iter('parameter'):
             if param.get(nsmap + 'hide') != 'y':
                 parameter_name = param.get('name').lstrip()
                 parameter_value = param.find('value').get('name')
                 parameters[parameter_name] = parameter_value
 
         images = list()
-        for img in root.iter('image'):
+        for img in value.iter('image'):
             image = img.get('url')
             images.append(image)
 
         sizes = dict()
-        for s in root.iter('size'):
+        for s in value.iter('size'):
             size = s.get(nsmap + 'name')
             quantity = s.find('stock').get('quantity')
             sizes[size] = quantity
@@ -79,6 +87,4 @@ def dict_print(dict, size='', quantity=''):
 
 
 if __name__ == "__main__":
-    data = process_data(sys.argv[1])
-    # print_results(data)
-    make_file(data, sys.argv[2])
+    processProducts()

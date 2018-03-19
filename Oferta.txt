@@ -1,25 +1,265 @@
-ID towaru: 5388
-Nazwa towaru: Sergio Leone Perłowe Czółenka Szpilki Feliciana Różowe
-Kategoria: Damskie/Szpilki
-Długi opis: Szukasz eleganckich kobiecych szpilek? Warto zwrócić uwagę na model Feliciana od firmy Sergio Leone. Wyróżniają się delikatną szpilką, pięknie podkreślającą nogi, oraz noskiem w szpic, który wysmukla stopę. Występują w wielu modnych kolorach, więc możesz je dopasować do wielu okazji i stylizacji. To ponadczasowy design, który w subtelny sposób podkreśla kobiece piękno! Nie czekaj dłużej i kup teraz w doskonałej cenie!
+ID towaru: 5414
+Nazwa towaru: Lu Boo Eleganckie Benzynowe Sandały Cyrkonie Nomire
+Kategoria: Damskie/Klapki
+Długi opis: Eleganckie sandałki z cyrkoniami dla każdej kobiety! Model Nomire od Lu Boo wyróżnia się wysoką jakością wykonania oraz niecodziennym stylem. Przeźroczysty pasek zdobiony mieniącymi się cekinami sprawi, że będziesz mogła je nosić nie tylko do letnich stylizacji ale także podczas bardziej szykownych wyjść. Idealnie leżą na nodze dzięki zapinaniu na pasek.
+
 Cena: 89.00 PLN
 Zdjecia:
-https://butosklep.pl/data/gfx/pictures/large/8/8/5388_3.jpg,
-https://butosklep.pl/data/gfx/pictures/large/8/8/5388_1.jpg,
-https://butosklep.pl/data/gfx/pictures/large/8/8/5388_2.jpg,
-https://butosklep.pl/data/gfx/pictures/large/8/8/5388_4.jpg,
+https://butosklep.pl/data/gfx/pictures/large/4/1/5414_3.jpg,
+https://butosklep.pl/data/gfx/pictures/large/4/1/5414_4.jpg,
+https://butosklep.pl/data/gfx/pictures/large/4/1/5414_1.jpg,
+https://butosklep.pl/data/gfx/pictures/large/4/1/5414_2.jpg,
+https://butosklep.pl/data/gfx/pictures/large/4/1/5414_5.jpg,
+Rozmiary:
+36: 4
+37: 4
+38: 6
+39: 3
+40: 3
+41: 2
+Parametry:
+Kolor: Wielokolorowy
+Typ: Zapinane na pasek
+Materiał zewnętrzny: Guma
+Wkładka: Skóra ekologiczna
+Ocieplenie: Brak
+Rodzaj obcasa: Podeszwa
+Wysokość obcasa: 1 cm
+------------------------------------------------------------
+ID towaru: 5415
+Nazwa towaru: Czarne Ekstrawaganckie Klapki na Koturnie Shock
+Kategoria: Damskie/Klapki
+Długi opis: Coś niesamowitego! Ekstrawaganckie klapki na wysoki koturnie! Poczuj się niezwykle dzięki oryginalnym zdobieniom! Spójrz na świat z wyższej perspektywy nawet w zaciszu swojego domu! Umożliwi Ci to wysoki koturn. Swoją stopę ułożysz na delikatnej piance dzięki czemu poczujesz się niezwykle komfortowo. Nie zwlekaj dłużej i kup teraz w doskonałej cenie!
+
+Cena: 99.00 PLN
+Zdjecia:
+https://butosklep.pl/data/gfx/pictures/large/5/1/5415_2.jpg,
+https://butosklep.pl/data/gfx/pictures/large/5/1/5415_5.jpg,
+https://butosklep.pl/data/gfx/pictures/large/5/1/5415_1.jpg,
+https://butosklep.pl/data/gfx/pictures/large/5/1/5415_3.jpg,
+https://butosklep.pl/data/gfx/pictures/large/5/1/5415_4.jpg,
+Rozmiary:
+36: 2
+37: 2
+38: 2
+39: 3
+40: 2
+41: 1
+Parametry:
+Kolor: Czarny
+Typ: Wsuwane
+Materiał zewnętrzny: Tkanina
+Wkładka: Piankowa
+Ocieplenie: Brak
+Rodzaj obcasa: Koturn
+Wysokość obcasa: 6,5 cm
+------------------------------------------------------------
+ID towaru: 5420
+Nazwa towaru: Różowe Trampki Tenisówki Bati
+Kategoria: Damskie/Tenisówki
+Długi opis: RÓŻOWE TRAMPKI OLDSCHOOL Z ĆWIEKAMI TENISÓWKI
+Cena: 59.00 PLN
+Zdjecia:
+https://butosklep.pl/data/gfx/pictures/large/0/2/5420_4.jpg,
+https://butosklep.pl/data/gfx/pictures/large/0/2/5420_5.jpg,
+https://butosklep.pl/data/gfx/pictures/large/0/2/5420_1.jpg,
+https://butosklep.pl/data/gfx/pictures/large/0/2/5420_2.jpg,
+https://butosklep.pl/data/gfx/pictures/large/0/2/5420_3.jpg,
+https://butosklep.pl/data/gfx/pictures/large/0/2/5420_6.jpg,
+https://butosklep.pl/data/gfx/pictures/large/0/2/5420_7.jpg,
+Rozmiary:
+36: 2
+37: 4
+38: 6
+39: 6
+40: 4
+41: 2
+Parametry:
+Kolor: Odcienie różu
+Typ: Sznurowane
+Materiał zewnętrzny: Skóra ekologiczna zamszowa
+Wkładka: Materiałowa
+Ocieplenie: Brak
+Rodzaj obcasa: Podeszwa
+Wysokość obcasa: 2 cm
+Wysokość cholewki: 6,5 cm
+------------------------------------------------------------
+ID towaru: 5418
+Nazwa towaru: Damskie Czerwone Klapki Na Korku Kokarda Dominica
+Kategoria: Damskie/Klapki
+Długi opis: Damskie klapki idealne na lato! Zamszowy wzór wykonany w najwyższej jakości materiału! Miękka i profilowana wkładka zapewnia niesamowitą wygodę i komfort użytkowania. Klapki posiadają piękne zdobienie w postaci wywiązanej kokardy. Występują w kilku cudownych kolorach. Musisz je mieć, kup teraz w doskonałej cenie!
+
+Cena: 49.00 PLN
+Zdjecia:
+https://butosklep.pl/data/gfx/pictures/large/8/1/5418_3.jpg,
+https://butosklep.pl/data/gfx/pictures/large/8/1/5418_4.jpg,
+https://butosklep.pl/data/gfx/pictures/large/8/1/5418_2.jpg,
+https://butosklep.pl/data/gfx/pictures/large/8/1/5418_5.jpg,
+https://butosklep.pl/data/gfx/pictures/large/8/1/5418_6.jpg,
+https://butosklep.pl/data/gfx/pictures/large/8/1/5418_1.jpg,
+Rozmiary:
+36: 3
+37: 6
+38: 7
+39: 9
+40: 6
+41: 3
+Parametry:
+Kolor: Odcienie czerwieni
+Typ: Wsuwane
+Materiał zewnętrzny: Skóra ekologiczna zamszowa
+Wkładka: Materiałowa
+Ocieplenie: Brak
+Rodzaj obcasa: Podeszwa
+Wysokość obcasa: 2 cm
+------------------------------------------------------------
+ID towaru: 5419
+Nazwa towaru: Damskie Czarne Klapki Na Korku Kokarda Dominica
+Kategoria: Damskie/Klapki
+Długi opis: Damskie klapki idealne na lato! Zamszowy wzór wykonany w najwyższej jakości materiału! Miękka i profilowana wkładka zapewnia niesamowitą wygodę i komfort użytkowania. Klapki posiadają piękne zdobienie w postaci wywiązanej kokardy. Występują w kilku cudownych kolorach. Musisz je mieć, kup teraz w doskonałej cenie!
+
+Cena: 49.00 PLN
+Zdjecia:
+https://butosklep.pl/data/gfx/pictures/large/9/1/5419_3.jpg,
+https://butosklep.pl/data/gfx/pictures/large/9/1/5419_5.jpg,
+https://butosklep.pl/data/gfx/pictures/large/9/1/5419_2.jpg,
+https://butosklep.pl/data/gfx/pictures/large/9/1/5419_4.jpg,
+https://butosklep.pl/data/gfx/pictures/large/9/1/5419_6.jpg,
+https://butosklep.pl/data/gfx/pictures/large/9/1/5419_1.jpg,
+Rozmiary:
+36: 5
+37: 8
+38: 15
+39: 17
+40: 9
+41: 2
+Parametry:
+Kolor: Czarny
+Typ: Wsuwane
+Materiał zewnętrzny: Skóra ekologiczna zamszowa
+Wkładka: Materiałowa
+Ocieplenie: Brak
+Rodzaj obcasa: Podeszwa
+Wysokość obcasa: 2 cm
+------------------------------------------------------------
+ID towaru: 5421
+Nazwa towaru: Damskie Szare Klapki Na Korku Kokarda Dominica
+Kategoria: Damskie/Klapki
+Długi opis: Damskie klapki idealne na lato! Zamszowy wzór wykonany w najwyższej jakości materiału! Miękka i profilowana wkładka zapewnia niesamowitą wygodę i komfort użytkowania. Klapki posiadają piękne zdobienie w postaci wywiązanej kokardy. Występują w kilku cudownych kolorach. Musisz je mieć, kup teraz w doskonałej cenie!
+
+Cena: 49.00 PLN
+Zdjecia:
+https://butosklep.pl/data/gfx/pictures/large/1/2/5421_2.jpg,
+https://butosklep.pl/data/gfx/pictures/large/1/2/5421_3.jpg,
+https://butosklep.pl/data/gfx/pictures/large/1/2/5421_1.jpg,
+https://butosklep.pl/data/gfx/pictures/large/1/2/5421_4.jpg,
+https://butosklep.pl/data/gfx/pictures/large/1/2/5421_5.jpg,
+https://butosklep.pl/data/gfx/pictures/large/1/2/5421_6.jpg,
+Rozmiary:
+36: 4
+37: 8
+38: 11
+39: 12
+40: 8
+41: 4
+Parametry:
+Kolor: Odcienie szarości i srebra
+Typ: Wsuwane
+Materiał zewnętrzny: Skóra ekologiczna zamszowa
+Wkładka: Materiałowa
+Ocieplenie: Brak
+Rodzaj obcasa: Podeszwa
+Wysokość obcasa: 2 cm
+------------------------------------------------------------
+ID towaru: 5422
+Nazwa towaru: Czarne Mokasyny z Ćwiekami Besto
+Kategoria: Damskie/Mokasyny
+Długi opis: Ponadczasowe wsuwane mokasyny, które wpasują się w każde letnie stylizacje. Wierzch w całości wykonany z delikatnej zamszowej skóry, co w połączeniu z piankową wkładką zapewni nam maksimum komfortu. Komfortowe mokasyny, które sprawdzą się zarówno w codziennych sytuacjach jak i w wyjściach do pracy. Klasyczny wzór połączony z niespotykaną dotąd wygodą to wzór na praktyczne i oryginalne buty.
+
+
+
+Cena: 49.00 PLN
+Zdjecia:
+https://butosklep.pl/data/gfx/pictures/large/2/2/5422_2.jpg,
+https://butosklep.pl/data/gfx/pictures/large/2/2/5422_3.jpg,
+https://butosklep.pl/data/gfx/pictures/large/2/2/5422_4.jpg,
+https://butosklep.pl/data/gfx/pictures/large/2/2/5422_1.jpg,
+https://butosklep.pl/data/gfx/pictures/large/2/2/5422_5.jpg,
+Rozmiary:
+36: 2
+37: 4
+38: 5
+39: 6
+40: 4
+41: 2
+Parametry:
+Kolor: Czarny
+Typ: Wsuwane
+Materiał zewnętrzny: Skóra ekologiczna zamszowa
+Wkładka: Skóra naturalna
+Ocieplenie: Brak
+Rodzaj obcasa: Płaski
+Wysokość obcasa: 1 cm
+Wysokość cholewki: 5 cm
+------------------------------------------------------------
+ID towaru: 5423
+Nazwa towaru: Granatowe Mokasyny z Ćwiekami Besto
+Kategoria: Damskie/Mokasyny
+Długi opis: Ponadczasowe wsuwane mokasyny, które wpasują się w każde letnie stylizacje. Wierzch w całości wykonany z delikatnej zamszowej skóry, co w połączeniu z piankową wkładką zapewni nam maksimum komfortu. Komfortowe mokasyny, które sprawdzą się zarówno w codziennych sytuacjach jak i w wyjściach do pracy. Klasyczny wzór połączony z niespotykaną dotąd wygodą to wzór na praktyczne i oryginalne buty.
+
+
+
+Cena: 49.00 PLN
+Zdjecia:
+https://butosklep.pl/data/gfx/pictures/large/3/2/5423_1.jpg,
+https://butosklep.pl/data/gfx/pictures/large/3/2/5423_3.jpg,
+https://butosklep.pl/data/gfx/pictures/large/3/2/5423_2.jpg,
+https://butosklep.pl/data/gfx/pictures/large/3/2/5423_4.jpg,
+Rozmiary:
+36: 2
+37: 3
+38: 5
+39: 6
+40: 4
+41: 2
+Parametry:
+Kolor: Odcienie niebieskiego
+Typ: Wsuwane
+Materiał zewnętrzny: Skóra ekologiczna zamszowa
+Wkładka: Skóra ekologiczna
+Ocieplenie: Brak
+Rodzaj obcasa: Płaski
+Wysokość obcasa: 1 cm
+Wysokość cholewki: 5 cm
+------------------------------------------------------------
+ID towaru: 5424
+Nazwa towaru: Czerwone Mokasyny z Ćwiekami Besto
+Kategoria: Damskie/Mokasyny
+Długi opis: Ponadczasowe wsuwane mokasyny, które wpasują się w każde letnie stylizacje. Wierzch w całości wykonany z delikatnej zamszowej skóry, co w połączeniu z piankową wkładką zapewni nam maksimum komfortu. Komfortowe mokasyny, które sprawdzą się zarówno w codziennych sytuacjach jak i w wyjściach do pracy. Klasyczny wzór połączony z niespotykaną dotąd wygodą to wzór na praktyczne i oryginalne buty.
+
+
+
+Cena: 49.00 PLN
+Zdjecia:
+https://butosklep.pl/data/gfx/pictures/large/4/2/5424_2.jpg,
+https://butosklep.pl/data/gfx/pictures/large/4/2/5424_4.jpg,
+https://butosklep.pl/data/gfx/pictures/large/4/2/5424_1.jpg,
+https://butosklep.pl/data/gfx/pictures/large/4/2/5424_3.jpg,
+https://butosklep.pl/data/gfx/pictures/large/4/2/5424_5.jpg,
 Rozmiary:
 36: 1
 37: 2
-38: 2
-39: 2
-40: 1
+38: 3
+39: 3
+40: 2
+41: 1
 Parametry:
-Kolor: Odcienie różu
+Kolor: Odcienie czerwieni
 Typ: Wsuwane
-Materiał zewnętrzny: Tworzywo skóropodobne
-Wkładka: Skóra naturalna
+Materiał zewnętrzny: Skóra ekologiczna zamszowa
+Wkładka: Skóra ekologiczna
 Ocieplenie: Brak
-Rodzaj obcasa: Szpilka
-Wysokość obcasa: 10 cm
-Wysokość cholewki: 5,5 cm
+Rodzaj obcasa: Płaski
+Wysokość obcasa: 1 cm
+Wysokość cholewki: 5 cm
+------------------------------------------------------------

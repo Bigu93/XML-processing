@@ -60,18 +60,618 @@
 				<iaiext:site  id="1"  size_id="0" gross="62.73" net="51.00" vat= "23.0"/>
 			</iaiext:price_wholesale>
 			<iaiext:price_pos>
-				<iaiext:price  size_id="0" gross="99.00" net="80.49" vat= "23.0"/>
+				<iaiext:price  size_id="0" gross="99.00" net="80.49" vat= "23.0"/>					
 			</iaiext:price_pos>
 			<iaiext:price_minimal>
 				<iaiext:site  id="1"  size_id="0" gross="62.73" net="51.00" vat= "23.0"/>
 			</iaiext:price_minimal>
 			<iaiext:price_retail>
-				<iaiext:site  id="1"  size_id="0" gross="89.00" net="72.36" vat= "23.0"/>
+				<iaiext:site  id="1"  size_id="0" gross="89.00" net="72.36" vat= "23.0"/>					
 			</iaiext:price_retail>
 			<iaiext:auction_price>
 				<iaiext:site id="1" price_type="start" gross="62.73" net="51.00" vat= "23.0"/>
 				<iaiext:site id="1" price_type="buy_now" gross="89.00" net="72.36" vat= "23.0"/>
-				<iaiext:site id="1" price_type="minimal" gross="62.73" net="51.00" vat= "23.0"/>
+				<iaiext:site id="1" price_type="minimal" gross="62.73" net="51.00" vat= "23.0"/>					
+			</iaiext:auction_price>
+			<images>
+				<large>
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_3.jpg" date_changed="2018-03-09 14:21:29" hash="7f6fd783ba8df92b1d348265d5b70400" iaiext:height="1200" iaiext:width="800" />
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_1.jpg" date_changed="2018-03-09 14:21:26" hash="3fa1a9f3ca490a8841339c420e5c8d06" iaiext:height="1200" iaiext:width="800" />
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_2.jpg" date_changed="2018-03-09 14:21:28" hash="4b07bcc15adc7be6a63ee3ccfd4bd0ff" iaiext:height="1200" iaiext:width="800" />
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_4.jpg" date_changed="2018-03-09 14:21:29" hash="5e23c3ac967975cec1c97014b920a43d" iaiext:height="1200" iaiext:width="800" />
+				</large>
+				<icons>
+					<icon url="https://butosklep.pl/data/gfx/icons/large/8/8/5388.jpg" date_changed="2018-03-09 14:21:44" hash="a53a3492add133f05b2b91166729e457" iaiext:height="1200" iaiext:width="800" />
+				</icons>
+			</images>
+			<iaiext:hotspots>
+				<iaiext:site id="1" manual_config="no">
+					<iaiext:promotion visible="no"/>
+					<iaiext:discount visible="no"/>
+					<iaiext:distinguished visible="no"/>
+					<iaiext:special visible="no"/>
+					<iaiext:newproduct visible="yes"/>
+					<iaiext:bestseller visible="no"/>
+				</iaiext:site>
+			</iaiext:hotspots>
+			<iaiext:enable_in_pos enabled="yes"/>
+			<iaiext:availability_profile id="1"/>
+			<iaiext:availability_management value="stock"/>
+			<iaiext:loyalty_program>
+				<iaiext:site  id="1"  operation="count_cost" clients="retailers" points ="8900" />
+				<iaiext:site  id="1"  operation="count_cost" clients="wholesalers" points ="0" />
+				<iaiext:site  id="1"  operation="client_award" clients="retailers" points ="890" />
+				<iaiext:site  id="1"  operation="client_award" clients="wholesalers" points ="0" />
+			</iaiext:loyalty_program>
+			<iai_category id="4494" xml:lang="pol" path="Ubrania i akcesoria &gt; Buty"/>
+			<iaiext:note>41 netto</iaiext:note>
+			<iaiext:sell_by>
+				<iaiext:retail quantity="1"/>
+				<iaiext:wholesale quantity="1"/>
+			</iaiext:sell_by>
+			<iaiext:inwrapper quantity="1"/>
+			<iaiext:availability>
+				<iaiext:site id="1" value="yes"/>
+			</iaiext:availability>
+			<iaiext:visibility>
+				<iaiext:site visible="yes"/>
+				<iaiext:price_comparator visible="yes"/>
+			</iaiext:visibility>
+
+			<parameters>
+				<parameter id="18" name="Kolor" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="y" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="0">
+					<value id="26" name="Odcienie różu" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="1085" name="Google" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="y" iaiext:auction_template_hide="y" iaiext:priority="0">
+					<value id="1086" name="Merchant" xml:lang="pol" iaiext:priority="1"/>
+					<value id="1143" name="Bugo" xml:lang="pol" iaiext:priority="2"/>
+				</parameter>
+				<parameter id="49" name="Typ" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="1">
+					<value id="53" name="Wsuwane" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="23" name="Materiał zewnętrzny" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="2">
+					<value id="208" name="Tworzywo skóropodobne" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="21" name="Wkładka" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="3">
+					<value id="69" name="Skóra naturalna" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="435" name="Ocieplenie" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="4">
+					<value id="441" name="Brak" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="6" name="Rodzaj obcasa" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="5">
+					<value id="46" name="Szpilka" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="3" name="Wysokość obcasa" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="6">
+					<value id="125" name="10 cm" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="94" name="Wysokość cholewki" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="7">
+					<value id="437" name="5,5 cm" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="429" name="Kategoria" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="y" iaiext:auction_template_hide="y" iaiext:priority="8">
+					<value id="430" name="Damskie" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+			</parameters>
+			<iaiext:navigation>
+				<iaiext:site id="1">
+					<iaiext:menu id="1">
+						<iaiext:item id="158" menu_id="1" textid="Obuwie Damskie\Szpilki damskie" iaiext:priority_menu="14"/>
+					</iaiext:menu>
+					<iaiext:menu id="2"></iaiext:menu>
+					<iaiext:menu id="3"></iaiext:menu>
+					<iaiext:menu id="4"></iaiext:menu>
+					<iaiext:menu id="5"></iaiext:menu>
+				</iaiext:site>
+			</iaiext:navigation>
+			<iaiext:prices_configuration_for_shops value="same_prices" />
+			<iaiext:size_chart id="49" xml:lang="pol" name="36-23,5/37-24,5/38-25/39-25,5/40-26" />
+			<iaiext:prices_config>
+				<iaiext:site id="1"  type="wholesale_notequals_retail" />
+			</iaiext:prices_config>
+			<iaiext:pos_prices_config>
+				<iaiext:site id="1"  type="pos_notequals_retail" />
+			</iaiext:pos_prices_config>
+			<sizes>
+				<size id="19"  iaiext:name="36"  code_producer="1878 L.PINK" code="5388-19" weight="1000" >
+					<stock id="1" quantity="1" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="21"  iaiext:name="37"  code="5388-21" weight="1000" >
+					<stock id="1" quantity="2" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="B"  iaiext:name="38"  code="5388-B" weight="1000" >
+					<stock id="1" quantity="2" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="D"  iaiext:name="39"  code="5388-D" weight="1000" >
+					<stock id="1" quantity="2" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="F"  iaiext:name="40"  code="5388-F" weight="1000" >
+					<stock id="1" quantity="1" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+			</sizes>
+			<group id="5389" iaiext:first_product_id="5389">
+				<group_by_parameter id="050ef565b4fad5b7faf128b67a873c71" name="Kolor">
+					<product_value id="625764bebe0f354bd43115be3d95f3f6" name="Odcienie różu"/>
+				</group_by_parameter>
+			</group>
+			<srp gross="0" net="0" vat= "23.0"/>
+			<iaiext:pricecomparator_name xml:lang="pol"><![CDATA[Sergio Leone Perłowe Czółenka Szpilki Feliciana Różowe]]></iaiext:pricecomparator_name>
+			<iaiext:priority level="1"/>
+			<iaiext:icons>
+				<iaiext:auction_icon url="https://butosklep.pl/data/gfx/icons/auctions/8/8/5388.jpg" height="1500" width="2000" date_changed="2018-03-09 14:21:50" hash="a53a3492add133f05b2b91166729e457" />
+				<iaiext:group_icon url="https://butosklep.pl/data/gfx/icons/versions/8/8/5388.jpg"  height="200" width="133" date_changed="2018-03-09 14:21:44" hash="a53a3492add133f05b2b91166729e457" />
+			</iaiext:icons>
+			<iaiext:deliverer id="0"/>
+		</product>
+		<product id="5388" currency="PLN" code_producer="1878 L.PINK" iaiext:code_on_card= "1878 L.PINK" iaiext:producer_code_standard="OTHER" iaiext:vat="23.0" iaiext:site="1">
+			<producer id="1472210960" name="Sergio Leone"/>
+			<category id="1214553975" xml:lang="pol" name="Damskie/Szpilki"/>
+			<unit id="1" xml:lang="pol" name="para"/>
+			<series id="28" xml:lang="pol" name="B6"/>
+			<card url="https://butosklep.pl/product-pol-5388-Sergio-Leone-Perlowe-Czolenka-Szpilki-Feliciana-Rozowe.html"/>
+			<description>
+				<name xml:lang="cze"><![CDATA[Sergio Leone perleťový pumpa s vysokým podpatkem Feliciana Růžové]]></name>
+				<name xml:lang="eng"><![CDATA[Sergio Leone Pearl Pumps High heel Feliciana Pink]]></name>
+				<name xml:lang="pol"><![CDATA[Sergio Leone Perłowe Czółenka Szpilki Feliciana Różowe]]></name>
+				<version name="Odcienie różu" >
+					<name xml:lang="cze"><![CDATA[Odstíny růžové]]></name>
+					<name xml:lang="eng"><![CDATA[Shades of pink]]></name>
+					<name xml:lang="pol"><![CDATA[Odcienie różu]]></name>
+				</version>
+				<long_desc xml:lang="cze"><![CDATA[<p> Hledáte elegantní dámské vysoké podpatky? Stojí za zmínku model Feliciana od Sergio Leone. Vyznačují se jemným čepem, krásně vyzdvižujícími nohy a špičatým nosem, který snižuje nohu. Přicházejí v mnoha módních barvách, takže je můžete přizpůsobit mnoha příležitostem a stylům. Je to nadčasový design, který jemně zdůrazňuje ženskou krásu! Už nečekejte a kupte si za skvělou cenu! </p>]]></long_desc>
+				<long_desc xml:lang="eng"><![CDATA[<p> Are you looking for elegant women's high heels? It is worth noting the Feliciana model from Sergio Leone. They are distinguished by a delicate pin, beautifully highlighting the legs, and a spiked nose that slims the foot. They come in many fashionable colors, so you can adapt them to many occasions and styles. It's a timeless design that subtly emphasizes feminine beauty! Do not wait any longer and buy now at a great price! </p>]]></long_desc>
+				<long_desc xml:lang="pol"><![CDATA[<p>Szukasz eleganckich kobiecych szpilek? Warto zwrócić uwagę na model Feliciana od firmy Sergio Leone. Wyróżniają się delikatną szpilką, pięknie podkreślającą nogi, oraz noskiem w szpic, który wysmukla stopę. Występują w wielu modnych kolorach, więc możesz je dopasować do wielu okazji i stylizacji. To ponadczasowy design, który w subtelny sposób podkreśla kobiece piękno! Nie czekaj dłużej i kup teraz w doskonałej cenie!</p>]]></long_desc>
+				<iaiext:auction_name xml:lang="pol"><![CDATA[PERŁOWE RÓŻOWE CZÓŁENKA SZPILKI SERGIO LEONE -%]]></iaiext:auction_name>
+				<iaiext:auction_long_desc xml:lang="pol"><![CDATA[<p>Szukasz eleganckich kobiecych szpilek? Warto zwrócić uwagę na model Feliciana od firmy Sergio Leone. Wyróżniają się delikatną szpilką, pięknie podkreślającą nogi, oraz noskiem w szpic, który wysmukla stopę. Występują w wielu modnych kolorach, więc możesz je dopasować do wielu okazji i stylizacji. To ponadczasowy design, który w subtelny sposób podkreśla kobiece piękno! Nie czekaj dłużej i kup teraz w doskonałej cenie!</p>]]></iaiext:auction_long_desc>
+			</description>
+			<iaiext:delivery_time unit="day" value="0">
+				<iaiext:mode type="deliverer"/>
+				<iaiext:time days="0"/>
+			</iaiext:delivery_time>
+			<iaiext:sum_in_basket value="yes"/>
+			<price gross="89.00" net="72.36" vat= "23.0"/>
+			<iaiext:srp gross="0.00" net="0.00" vat= "23.0"/>
+			<iaiext:sizes>
+				<iaiext:size id="19" size_name="36" size_panel_name="36" code="5388-19" weight="1000" code_producer="1878 L.PINK"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="1" iaiext:available_stock_quantity="1" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="21" size_name="37" size_panel_name="37" code="5388-21" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="2" iaiext:available_stock_quantity="2" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="B" size_name="38" size_panel_name="38" code="5388-B" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="2" iaiext:available_stock_quantity="2" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="D" size_name="39" size_panel_name="39" code="5388-D" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="2" iaiext:available_stock_quantity="2" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="F" size_name="40" size_panel_name="40" code="5388-F" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="1" iaiext:available_stock_quantity="1" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+			</iaiext:sizes>
+			<iaiext:price_wholesale>
+				<iaiext:site  id="1"  size_id="0" gross="62.73" net="51.00" vat= "23.0"/>
+			</iaiext:price_wholesale>
+			<iaiext:price_pos>
+				<iaiext:price  size_id="0" gross="99.00" net="80.49" vat= "23.0"/>					
+			</iaiext:price_pos>
+			<iaiext:price_minimal>
+				<iaiext:site  id="1"  size_id="0" gross="62.73" net="51.00" vat= "23.0"/>
+			</iaiext:price_minimal>
+			<iaiext:price_retail>
+				<iaiext:site  id="1"  size_id="0" gross="89.00" net="72.36" vat= "23.0"/>					
+			</iaiext:price_retail>
+			<iaiext:auction_price>
+				<iaiext:site id="1" price_type="start" gross="62.73" net="51.00" vat= "23.0"/>
+				<iaiext:site id="1" price_type="buy_now" gross="89.00" net="72.36" vat= "23.0"/>
+				<iaiext:site id="1" price_type="minimal" gross="62.73" net="51.00" vat= "23.0"/>					
+			</iaiext:auction_price>
+			<images>
+				<large>
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_3.jpg" date_changed="2018-03-09 14:21:29" hash="7f6fd783ba8df92b1d348265d5b70400" iaiext:height="1200" iaiext:width="800" />
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_1.jpg" date_changed="2018-03-09 14:21:26" hash="3fa1a9f3ca490a8841339c420e5c8d06" iaiext:height="1200" iaiext:width="800" />
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_2.jpg" date_changed="2018-03-09 14:21:28" hash="4b07bcc15adc7be6a63ee3ccfd4bd0ff" iaiext:height="1200" iaiext:width="800" />
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_4.jpg" date_changed="2018-03-09 14:21:29" hash="5e23c3ac967975cec1c97014b920a43d" iaiext:height="1200" iaiext:width="800" />
+				</large>
+				<icons>
+					<icon url="https://butosklep.pl/data/gfx/icons/large/8/8/5388.jpg" date_changed="2018-03-09 14:21:44" hash="a53a3492add133f05b2b91166729e457" iaiext:height="1200" iaiext:width="800" />
+				</icons>
+			</images>
+			<iaiext:hotspots>
+				<iaiext:site id="1" manual_config="no">
+					<iaiext:promotion visible="no"/>
+					<iaiext:discount visible="no"/>
+					<iaiext:distinguished visible="no"/>
+					<iaiext:special visible="no"/>
+					<iaiext:newproduct visible="yes"/>
+					<iaiext:bestseller visible="no"/>
+				</iaiext:site>
+			</iaiext:hotspots>
+			<iaiext:enable_in_pos enabled="yes"/>
+			<iaiext:availability_profile id="1"/>
+			<iaiext:availability_management value="stock"/>
+			<iaiext:loyalty_program>
+				<iaiext:site  id="1"  operation="count_cost" clients="retailers" points ="8900" />
+				<iaiext:site  id="1"  operation="count_cost" clients="wholesalers" points ="0" />
+				<iaiext:site  id="1"  operation="client_award" clients="retailers" points ="890" />
+				<iaiext:site  id="1"  operation="client_award" clients="wholesalers" points ="0" />
+			</iaiext:loyalty_program>
+			<iai_category id="4494" xml:lang="pol" path="Ubrania i akcesoria &gt; Buty"/>
+			<iaiext:note>41 netto</iaiext:note>
+			<iaiext:sell_by>
+				<iaiext:retail quantity="1"/>
+				<iaiext:wholesale quantity="1"/>
+			</iaiext:sell_by>
+			<iaiext:inwrapper quantity="1"/>
+			<iaiext:availability>
+				<iaiext:site id="1" value="yes"/>
+			</iaiext:availability>
+			<iaiext:visibility>
+				<iaiext:site visible="yes"/>
+				<iaiext:price_comparator visible="yes"/>
+			</iaiext:visibility>
+
+			<parameters>
+				<parameter id="18" name="Kolor" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="y" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="0">
+					<value id="26" name="Odcienie różu" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="1085" name="Google" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="y" iaiext:auction_template_hide="y" iaiext:priority="0">
+					<value id="1086" name="Merchant" xml:lang="pol" iaiext:priority="1"/>
+					<value id="1143" name="Bugo" xml:lang="pol" iaiext:priority="2"/>
+				</parameter>
+				<parameter id="49" name="Typ" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="1">
+					<value id="53" name="Wsuwane" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="23" name="Materiał zewnętrzny" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="2">
+					<value id="208" name="Tworzywo skóropodobne" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="21" name="Wkładka" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="3">
+					<value id="69" name="Skóra naturalna" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="435" name="Ocieplenie" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="4">
+					<value id="441" name="Brak" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="6" name="Rodzaj obcasa" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="5">
+					<value id="46" name="Szpilka" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="3" name="Wysokość obcasa" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="6">
+					<value id="125" name="10 cm" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="94" name="Wysokość cholewki" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="7">
+					<value id="437" name="5,5 cm" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="429" name="Kategoria" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="y" iaiext:auction_template_hide="y" iaiext:priority="8">
+					<value id="430" name="Damskie" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+			</parameters>
+			<iaiext:navigation>
+				<iaiext:site id="1">
+					<iaiext:menu id="1">
+						<iaiext:item id="158" menu_id="1" textid="Obuwie Damskie\Szpilki damskie" iaiext:priority_menu="14"/>
+					</iaiext:menu>
+					<iaiext:menu id="2"></iaiext:menu>
+					<iaiext:menu id="3"></iaiext:menu>
+					<iaiext:menu id="4"></iaiext:menu>
+					<iaiext:menu id="5"></iaiext:menu>
+				</iaiext:site>
+			</iaiext:navigation>
+			<iaiext:prices_configuration_for_shops value="same_prices" />
+			<iaiext:size_chart id="49" xml:lang="pol" name="36-23,5/37-24,5/38-25/39-25,5/40-26" />
+			<iaiext:prices_config>
+				<iaiext:site id="1"  type="wholesale_notequals_retail" />
+			</iaiext:prices_config>
+			<iaiext:pos_prices_config>
+				<iaiext:site id="1"  type="pos_notequals_retail" />
+			</iaiext:pos_prices_config>
+			<sizes>
+				<size id="19"  iaiext:name="36"  code_producer="1878 L.PINK" code="5388-19" weight="1000" >
+					<stock id="1" quantity="1" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="21"  iaiext:name="37"  code="5388-21" weight="1000" >
+					<stock id="1" quantity="2" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="B"  iaiext:name="38"  code="5388-B" weight="1000" >
+					<stock id="1" quantity="2" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="D"  iaiext:name="39"  code="5388-D" weight="1000" >
+					<stock id="1" quantity="2" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="F"  iaiext:name="40"  code="5388-F" weight="1000" >
+					<stock id="1" quantity="1" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+			</sizes>
+			<group id="5389" iaiext:first_product_id="5389">
+				<group_by_parameter id="050ef565b4fad5b7faf128b67a873c71" name="Kolor">
+					<product_value id="625764bebe0f354bd43115be3d95f3f6" name="Odcienie różu"/>
+				</group_by_parameter>
+			</group>
+			<srp gross="0" net="0" vat= "23.0"/>
+			<iaiext:pricecomparator_name xml:lang="pol"><![CDATA[Sergio Leone Perłowe Czółenka Szpilki Feliciana Różowe]]></iaiext:pricecomparator_name>
+			<iaiext:priority level="1"/>
+			<iaiext:icons>
+				<iaiext:auction_icon url="https://butosklep.pl/data/gfx/icons/auctions/8/8/5388.jpg" height="1500" width="2000" date_changed="2018-03-09 14:21:50" hash="a53a3492add133f05b2b91166729e457" />
+				<iaiext:group_icon url="https://butosklep.pl/data/gfx/icons/versions/8/8/5388.jpg"  height="200" width="133" date_changed="2018-03-09 14:21:44" hash="a53a3492add133f05b2b91166729e457" />
+			</iaiext:icons>
+			<iaiext:deliverer id="0"/>
+		</product>
+		<product id="5388" currency="PLN" code_producer="1878 L.PINK" iaiext:code_on_card= "1878 L.PINK" iaiext:producer_code_standard="OTHER" iaiext:vat="23.0" iaiext:site="1">
+			<producer id="1472210960" name="Sergio Leone"/>
+			<category id="1214553975" xml:lang="pol" name="Damskie/Szpilki"/>
+			<unit id="1" xml:lang="pol" name="para"/>
+			<series id="28" xml:lang="pol" name="B6"/>
+			<card url="https://butosklep.pl/product-pol-5388-Sergio-Leone-Perlowe-Czolenka-Szpilki-Feliciana-Rozowe.html"/>
+			<description>
+				<name xml:lang="cze"><![CDATA[Sergio Leone perleťový pumpa s vysokým podpatkem Feliciana Růžové]]></name>
+				<name xml:lang="eng"><![CDATA[Sergio Leone Pearl Pumps High heel Feliciana Pink]]></name>
+				<name xml:lang="pol"><![CDATA[Sergio Leone Perłowe Czółenka Szpilki Feliciana Różowe]]></name>
+				<version name="Odcienie różu" >
+					<name xml:lang="cze"><![CDATA[Odstíny růžové]]></name>
+					<name xml:lang="eng"><![CDATA[Shades of pink]]></name>
+					<name xml:lang="pol"><![CDATA[Odcienie różu]]></name>
+				</version>
+				<long_desc xml:lang="cze"><![CDATA[<p> Hledáte elegantní dámské vysoké podpatky? Stojí za zmínku model Feliciana od Sergio Leone. Vyznačují se jemným čepem, krásně vyzdvižujícími nohy a špičatým nosem, který snižuje nohu. Přicházejí v mnoha módních barvách, takže je můžete přizpůsobit mnoha příležitostem a stylům. Je to nadčasový design, který jemně zdůrazňuje ženskou krásu! Už nečekejte a kupte si za skvělou cenu! </p>]]></long_desc>
+				<long_desc xml:lang="eng"><![CDATA[<p> Are you looking for elegant women's high heels? It is worth noting the Feliciana model from Sergio Leone. They are distinguished by a delicate pin, beautifully highlighting the legs, and a spiked nose that slims the foot. They come in many fashionable colors, so you can adapt them to many occasions and styles. It's a timeless design that subtly emphasizes feminine beauty! Do not wait any longer and buy now at a great price! </p>]]></long_desc>
+				<long_desc xml:lang="pol"><![CDATA[<p>Szukasz eleganckich kobiecych szpilek? Warto zwrócić uwagę na model Feliciana od firmy Sergio Leone. Wyróżniają się delikatną szpilką, pięknie podkreślającą nogi, oraz noskiem w szpic, który wysmukla stopę. Występują w wielu modnych kolorach, więc możesz je dopasować do wielu okazji i stylizacji. To ponadczasowy design, który w subtelny sposób podkreśla kobiece piękno! Nie czekaj dłużej i kup teraz w doskonałej cenie!</p>]]></long_desc>
+				<iaiext:auction_name xml:lang="pol"><![CDATA[PERŁOWE RÓŻOWE CZÓŁENKA SZPILKI SERGIO LEONE -%]]></iaiext:auction_name>
+				<iaiext:auction_long_desc xml:lang="pol"><![CDATA[<p>Szukasz eleganckich kobiecych szpilek? Warto zwrócić uwagę na model Feliciana od firmy Sergio Leone. Wyróżniają się delikatną szpilką, pięknie podkreślającą nogi, oraz noskiem w szpic, który wysmukla stopę. Występują w wielu modnych kolorach, więc możesz je dopasować do wielu okazji i stylizacji. To ponadczasowy design, który w subtelny sposób podkreśla kobiece piękno! Nie czekaj dłużej i kup teraz w doskonałej cenie!</p>]]></iaiext:auction_long_desc>
+			</description>
+			<iaiext:delivery_time unit="day" value="0">
+				<iaiext:mode type="deliverer"/>
+				<iaiext:time days="0"/>
+			</iaiext:delivery_time>
+			<iaiext:sum_in_basket value="yes"/>
+			<price gross="89.00" net="72.36" vat= "23.0"/>
+			<iaiext:srp gross="0.00" net="0.00" vat= "23.0"/>
+			<iaiext:sizes>
+				<iaiext:size id="19" size_name="36" size_panel_name="36" code="5388-19" weight="1000" code_producer="1878 L.PINK"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="1" iaiext:available_stock_quantity="1" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="21" size_name="37" size_panel_name="37" code="5388-21" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="2" iaiext:available_stock_quantity="2" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="B" size_name="38" size_panel_name="38" code="5388-B" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="2" iaiext:available_stock_quantity="2" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="D" size_name="39" size_panel_name="39" code="5388-D" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="2" iaiext:available_stock_quantity="2" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="F" size_name="40" size_panel_name="40" code="5388-F" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="1" iaiext:available_stock_quantity="1" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+			</iaiext:sizes>
+			<iaiext:price_wholesale>
+				<iaiext:site  id="1"  size_id="0" gross="62.73" net="51.00" vat= "23.0"/>
+			</iaiext:price_wholesale>
+			<iaiext:price_pos>
+				<iaiext:price  size_id="0" gross="99.00" net="80.49" vat= "23.0"/>					
+			</iaiext:price_pos>
+			<iaiext:price_minimal>
+				<iaiext:site  id="1"  size_id="0" gross="62.73" net="51.00" vat= "23.0"/>
+			</iaiext:price_minimal>
+			<iaiext:price_retail>
+				<iaiext:site  id="1"  size_id="0" gross="89.00" net="72.36" vat= "23.0"/>					
+			</iaiext:price_retail>
+			<iaiext:auction_price>
+				<iaiext:site id="1" price_type="start" gross="62.73" net="51.00" vat= "23.0"/>
+				<iaiext:site id="1" price_type="buy_now" gross="89.00" net="72.36" vat= "23.0"/>
+				<iaiext:site id="1" price_type="minimal" gross="62.73" net="51.00" vat= "23.0"/>					
+			</iaiext:auction_price>
+			<images>
+				<large>
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_3.jpg" date_changed="2018-03-09 14:21:29" hash="7f6fd783ba8df92b1d348265d5b70400" iaiext:height="1200" iaiext:width="800" />
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_1.jpg" date_changed="2018-03-09 14:21:26" hash="3fa1a9f3ca490a8841339c420e5c8d06" iaiext:height="1200" iaiext:width="800" />
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_2.jpg" date_changed="2018-03-09 14:21:28" hash="4b07bcc15adc7be6a63ee3ccfd4bd0ff" iaiext:height="1200" iaiext:width="800" />
+					<image url="https://butosklep.pl/data/gfx/pictures/large/8/8/5388_4.jpg" date_changed="2018-03-09 14:21:29" hash="5e23c3ac967975cec1c97014b920a43d" iaiext:height="1200" iaiext:width="800" />
+				</large>
+				<icons>
+					<icon url="https://butosklep.pl/data/gfx/icons/large/8/8/5388.jpg" date_changed="2018-03-09 14:21:44" hash="a53a3492add133f05b2b91166729e457" iaiext:height="1200" iaiext:width="800" />
+				</icons>
+			</images>
+			<iaiext:hotspots>
+				<iaiext:site id="1" manual_config="no">
+					<iaiext:promotion visible="no"/>
+					<iaiext:discount visible="no"/>
+					<iaiext:distinguished visible="no"/>
+					<iaiext:special visible="no"/>
+					<iaiext:newproduct visible="yes"/>
+					<iaiext:bestseller visible="no"/>
+				</iaiext:site>
+			</iaiext:hotspots>
+			<iaiext:enable_in_pos enabled="yes"/>
+			<iaiext:availability_profile id="1"/>
+			<iaiext:availability_management value="stock"/>
+			<iaiext:loyalty_program>
+				<iaiext:site  id="1"  operation="count_cost" clients="retailers" points ="8900" />
+				<iaiext:site  id="1"  operation="count_cost" clients="wholesalers" points ="0" />
+				<iaiext:site  id="1"  operation="client_award" clients="retailers" points ="890" />
+				<iaiext:site  id="1"  operation="client_award" clients="wholesalers" points ="0" />
+			</iaiext:loyalty_program>
+			<iai_category id="4494" xml:lang="pol" path="Ubrania i akcesoria &gt; Buty"/>
+			<iaiext:note>41 netto</iaiext:note>
+			<iaiext:sell_by>
+				<iaiext:retail quantity="1"/>
+				<iaiext:wholesale quantity="1"/>
+			</iaiext:sell_by>
+			<iaiext:inwrapper quantity="1"/>
+			<iaiext:availability>
+				<iaiext:site id="1" value="yes"/>
+			</iaiext:availability>
+			<iaiext:visibility>
+				<iaiext:site visible="yes"/>
+				<iaiext:price_comparator visible="yes"/>
+			</iaiext:visibility>
+
+			<parameters>
+				<parameter id="18" name="Kolor" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="y" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="0">
+					<value id="26" name="Odcienie różu" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="1085" name="Google" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="y" iaiext:auction_template_hide="y" iaiext:priority="0">
+					<value id="1086" name="Merchant" xml:lang="pol" iaiext:priority="1"/>
+					<value id="1143" name="Bugo" xml:lang="pol" iaiext:priority="2"/>
+				</parameter>
+				<parameter id="49" name="Typ" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="1">
+					<value id="53" name="Wsuwane" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="23" name="Materiał zewnętrzny" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="2">
+					<value id="208" name="Tworzywo skóropodobne" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="21" name="Wkładka" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="3">
+					<value id="69" name="Skóra naturalna" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="435" name="Ocieplenie" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="4">
+					<value id="441" name="Brak" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="6" name="Rodzaj obcasa" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="5">
+					<value id="46" name="Szpilka" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="3" name="Wysokość obcasa" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="6">
+					<value id="125" name="10 cm" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="94" name="Wysokość cholewki" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="n" iaiext:auction_template_hide="n" iaiext:priority="7">
+					<value id="437" name="5,5 cm" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+				<parameter id="429" name="Kategoria" xml:lang="pol" iaiext:distinction="n" iaiext:group_distinction="n" iaiext:hide="y" iaiext:auction_template_hide="y" iaiext:priority="8">
+					<value id="430" name="Damskie" xml:lang="pol" iaiext:priority="0"/>
+				</parameter>
+			</parameters>
+			<iaiext:navigation>
+				<iaiext:site id="1">
+					<iaiext:menu id="1">
+						<iaiext:item id="158" menu_id="1" textid="Obuwie Damskie\Szpilki damskie" iaiext:priority_menu="14"/>
+					</iaiext:menu>
+					<iaiext:menu id="2"></iaiext:menu>
+					<iaiext:menu id="3"></iaiext:menu>
+					<iaiext:menu id="4"></iaiext:menu>
+					<iaiext:menu id="5"></iaiext:menu>
+				</iaiext:site>
+			</iaiext:navigation>
+			<iaiext:prices_configuration_for_shops value="same_prices" />
+			<iaiext:size_chart id="49" xml:lang="pol" name="36-23,5/37-24,5/38-25/39-25,5/40-26" />
+			<iaiext:prices_config>
+				<iaiext:site id="1"  type="wholesale_notequals_retail" />
+			</iaiext:prices_config>
+			<iaiext:pos_prices_config>
+				<iaiext:site id="1"  type="pos_notequals_retail" />
+			</iaiext:pos_prices_config>
+			<sizes>
+				<size id="19"  iaiext:name="36"  code_producer="1878 L.PINK" code="5388-19" weight="1000" >
+					<stock id="1" quantity="1" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="21"  iaiext:name="37"  code="5388-21" weight="1000" >
+					<stock id="1" quantity="2" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="B"  iaiext:name="38"  code="5388-B" weight="1000" >
+					<stock id="1" quantity="2" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="D"  iaiext:name="39"  code="5388-D" weight="1000" >
+					<stock id="1" quantity="2" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+				<size id="F"  iaiext:name="40"  code="5388-F" weight="1000" >
+					<stock id="1" quantity="1" iaiext:location_id="32" iaiext:location_text_id="GR\B6"/>
+				</size>
+			</sizes>
+			<group id="5389" iaiext:first_product_id="5389">
+				<group_by_parameter id="050ef565b4fad5b7faf128b67a873c71" name="Kolor">
+					<product_value id="625764bebe0f354bd43115be3d95f3f6" name="Odcienie różu"/>
+				</group_by_parameter>
+			</group>
+			<srp gross="0" net="0" vat= "23.0"/>
+			<iaiext:pricecomparator_name xml:lang="pol"><![CDATA[Sergio Leone Perłowe Czółenka Szpilki Feliciana Różowe]]></iaiext:pricecomparator_name>
+			<iaiext:priority level="1"/>
+			<iaiext:icons>
+				<iaiext:auction_icon url="https://butosklep.pl/data/gfx/icons/auctions/8/8/5388.jpg" height="1500" width="2000" date_changed="2018-03-09 14:21:50" hash="a53a3492add133f05b2b91166729e457" />
+				<iaiext:group_icon url="https://butosklep.pl/data/gfx/icons/versions/8/8/5388.jpg"  height="200" width="133" date_changed="2018-03-09 14:21:44" hash="a53a3492add133f05b2b91166729e457" />
+			</iaiext:icons>
+			<iaiext:deliverer id="0"/>
+		</product>
+		<product id="5388" currency="PLN" code_producer="1878 L.PINK" iaiext:code_on_card= "1878 L.PINK" iaiext:producer_code_standard="OTHER" iaiext:vat="23.0" iaiext:site="1">
+			<producer id="1472210960" name="Sergio Leone"/>
+			<category id="1214553975" xml:lang="pol" name="Damskie/Szpilki"/>
+			<unit id="1" xml:lang="pol" name="para"/>
+			<series id="28" xml:lang="pol" name="B6"/>
+			<card url="https://butosklep.pl/product-pol-5388-Sergio-Leone-Perlowe-Czolenka-Szpilki-Feliciana-Rozowe.html"/>
+			<description>
+				<name xml:lang="cze"><![CDATA[Sergio Leone perleťový pumpa s vysokým podpatkem Feliciana Růžové]]></name>
+				<name xml:lang="eng"><![CDATA[Sergio Leone Pearl Pumps High heel Feliciana Pink]]></name>
+				<name xml:lang="pol"><![CDATA[Sergio Leone Perłowe Czółenka Szpilki Feliciana Różowe]]></name>
+				<version name="Odcienie różu" >
+					<name xml:lang="cze"><![CDATA[Odstíny růžové]]></name>
+					<name xml:lang="eng"><![CDATA[Shades of pink]]></name>
+					<name xml:lang="pol"><![CDATA[Odcienie różu]]></name>
+				</version>
+				<long_desc xml:lang="cze"><![CDATA[<p> Hledáte elegantní dámské vysoké podpatky? Stojí za zmínku model Feliciana od Sergio Leone. Vyznačují se jemným čepem, krásně vyzdvižujícími nohy a špičatým nosem, který snižuje nohu. Přicházejí v mnoha módních barvách, takže je můžete přizpůsobit mnoha příležitostem a stylům. Je to nadčasový design, který jemně zdůrazňuje ženskou krásu! Už nečekejte a kupte si za skvělou cenu! </p>]]></long_desc>
+				<long_desc xml:lang="eng"><![CDATA[<p> Are you looking for elegant women's high heels? It is worth noting the Feliciana model from Sergio Leone. They are distinguished by a delicate pin, beautifully highlighting the legs, and a spiked nose that slims the foot. They come in many fashionable colors, so you can adapt them to many occasions and styles. It's a timeless design that subtly emphasizes feminine beauty! Do not wait any longer and buy now at a great price! </p>]]></long_desc>
+				<long_desc xml:lang="pol"><![CDATA[<p>Szukasz eleganckich kobiecych szpilek? Warto zwrócić uwagę na model Feliciana od firmy Sergio Leone. Wyróżniają się delikatną szpilką, pięknie podkreślającą nogi, oraz noskiem w szpic, który wysmukla stopę. Występują w wielu modnych kolorach, więc możesz je dopasować do wielu okazji i stylizacji. To ponadczasowy design, który w subtelny sposób podkreśla kobiece piękno! Nie czekaj dłużej i kup teraz w doskonałej cenie!</p>]]></long_desc>
+				<iaiext:auction_name xml:lang="pol"><![CDATA[PERŁOWE RÓŻOWE CZÓŁENKA SZPILKI SERGIO LEONE -%]]></iaiext:auction_name>
+				<iaiext:auction_long_desc xml:lang="pol"><![CDATA[<p>Szukasz eleganckich kobiecych szpilek? Warto zwrócić uwagę na model Feliciana od firmy Sergio Leone. Wyróżniają się delikatną szpilką, pięknie podkreślającą nogi, oraz noskiem w szpic, który wysmukla stopę. Występują w wielu modnych kolorach, więc możesz je dopasować do wielu okazji i stylizacji. To ponadczasowy design, który w subtelny sposób podkreśla kobiece piękno! Nie czekaj dłużej i kup teraz w doskonałej cenie!</p>]]></iaiext:auction_long_desc>
+			</description>
+			<iaiext:delivery_time unit="day" value="0">
+				<iaiext:mode type="deliverer"/>
+				<iaiext:time days="0"/>
+			</iaiext:delivery_time>
+			<iaiext:sum_in_basket value="yes"/>
+			<price gross="89.00" net="72.36" vat= "23.0"/>
+			<iaiext:srp gross="0.00" net="0.00" vat= "23.0"/>
+			<iaiext:sizes>
+				<iaiext:size id="19" size_name="36" size_panel_name="36" code="5388-19" weight="1000" code_producer="1878 L.PINK"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="1" iaiext:available_stock_quantity="1" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="21" size_name="37" size_panel_name="37" code="5388-21" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="2" iaiext:available_stock_quantity="2" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="B" size_name="38" size_panel_name="38" code="5388-B" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="2" iaiext:available_stock_quantity="2" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="D" size_name="39" size_panel_name="39" code="5388-D" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="2" iaiext:available_stock_quantity="2" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+				<iaiext:size id="F" size_name="40" size_panel_name="40" code="5388-F" weight="1000"  available="in_stock" >
+					<iaiext:price gross="89.00" net="72.36" vat= "23.0"></iaiext:price>
+					<iaiext:srp gross="0.00" net="0.00"  vat= "23.0"/>
+					<iaiext:stock id="1" quantity="1" iaiext:available_stock_quantity="1" iaiext:location_id="32"  iaiext:location_text_id="GR\B6"/>
+				</iaiext:size>
+			</iaiext:sizes>
+			<iaiext:price_wholesale>
+				<iaiext:site  id="1"  size_id="0" gross="62.73" net="51.00" vat= "23.0"/>
+			</iaiext:price_wholesale>
+			<iaiext:price_pos>
+				<iaiext:price  size_id="0" gross="99.00" net="80.49" vat= "23.0"/>					
+			</iaiext:price_pos>
+			<iaiext:price_minimal>
+				<iaiext:site  id="1"  size_id="0" gross="62.73" net="51.00" vat= "23.0"/>
+			</iaiext:price_minimal>
+			<iaiext:price_retail>
+				<iaiext:site  id="1"  size_id="0" gross="89.00" net="72.36" vat= "23.0"/>					
+			</iaiext:price_retail>
+			<iaiext:auction_price>
+				<iaiext:site id="1" price_type="start" gross="62.73" net="51.00" vat= "23.0"/>
+				<iaiext:site id="1" price_type="buy_now" gross="89.00" net="72.36" vat= "23.0"/>
+				<iaiext:site id="1" price_type="minimal" gross="62.73" net="51.00" vat= "23.0"/>					
 			</iaiext:auction_price>
 			<images>
 				<large>

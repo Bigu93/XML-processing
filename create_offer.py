@@ -6,7 +6,7 @@ base_texts = ["ID towaru:", "Nazwa towaru:", "Kategoria:", "Długi opis:",
 
 
 def make_file(complete_data, filename):
-    """Depending on file, if it exists or not, create or append it."""
+    """Depends on file, if it exists or not, create or append it."""
     if os.path.isfile(filename):
         with codecs.open(filename, 'a', 'utf-8') as f:
             save_data(complete_data, f)
@@ -35,7 +35,7 @@ def save_data(zipped_lists, file):
                     file.write("%s\n" % (k + ": " + v))
                 continue
             file.write("%s %s\n" % (elem[0], elem[1]))
-    file.write('\n')
+    file.write('-' * 60 + '\n')
 
 
 def convert_to_list(list_with_data):
